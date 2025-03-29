@@ -8,7 +8,9 @@ const CustomAccordion = () => {
         setActiveIndex(activeIndex === index ? null : index);
     };
 
+
     
+
     const accordionData = [
         {
             title: "What is AI?",
